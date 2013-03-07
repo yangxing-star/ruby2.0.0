@@ -1,2 +1,1 @@
-ruby2.0.0
-=========
+My name is Star!
